@@ -1,5 +1,5 @@
-<h2  id="thunder">  Me_THUNDER#6498</h2>
-<img width="15%" src="https://cdn.discordapp.com/attachments/847717670462816287/849193293232472084/ba24e7874f7463e74f830660718b2856.png" >
+<h2  id="Roczix"> Roczix#6498</h2>
+<img width="30%" src="https://cdn.discordapp.com/attachments/835126475253612576/849261061676072970/r_logo-design.jpg" >
 <h2 id="Developers">Developers Support:</h2>
 https://discord.gg/cWKWtzugfU
 <img width="30%" src="https://cdn.discordapp.com/icons/800447810864152596/a_d72f58a3757b427d63e55d62c1d761b0.gif?size=1024">
