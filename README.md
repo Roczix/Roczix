@@ -1,18 +1,4 @@
-<h2  id="Roczix"> Roczix#6498</h2>
-<img width="30%" src="https://cdn.discordapp.com/attachments/835126475253612576/849261061676072970/r_logo-design.jpg" >
-<h2 id="Developers">Developers Support:</h2>
-https://discord.gg/cWKWtzugfU
-<img width="30%" src="https://cdn.discordapp.com/icons/800447810864152596/a_d72f58a3757b427d63e55d62c1d761b0.gif?size=1024">
-<h2 id="Developers">The Power Codes:</h2>
-https://discord.gg/R39BTebShf
-<img width="30%" src="https://cdn.discordapp.com/icons/789805055884132354/7be5ef429aeb60e9908da028cf42d646.png?size=1024">
-
-
-<center><a href="#"><img width="100%" height="20%" src="https://cdn.discordapp.com/attachments/563319670975758366/910513538718646303/1f3g_copy_2.png" /></a></center>
-
-
-
-<h1 align="center"> <img src="https://cdn.discordapp.com/attachments/563319722398056448/861328055208771644/2df6b42d-2ef1-44c3-93d5-5b44642af6d8.gif" width="60px">Roczix profile </h1>
+<h1 align="center"> <img src="https://cdn.discordapp.com/attachments/815923744349356102/911707245132251216/BW_Anime_guy_school_gif.gif" width="60px">Roczix profile </h1>
 <h3 align="center">Hi, I am Roczix and I would like to introduce myself to you. I live in Turkey in Bursa. I love programming very much. I love helping others, I love video games, I love playing Ark survival evolved, it's a very cool game, I worked with a lot and helped a lot, so don't hesitate to ask for help.
 
 ## 🙋‍♂️ About Me
