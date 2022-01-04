@@ -10,7 +10,7 @@
 
 - 🌎 I live in Turkey **"Bursa"**
 
-- 🔰 All of my life and about me are available at **[My Portfolio](https://devazex.xyz/)**
+- 🔰 All of my life and about me are available at **[My Portfolio](https://roczix.xyz/)**
 
 - 💌 How to reach me [Discord](https://Discord.Roczix.xyz/): **Roczix#0001** Or **[Twitter](https://Twitter.Roczix.xyz/)** Or **[Instagram](https://insta.Roczix.xyz/)**
 
