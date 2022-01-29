@@ -97,4 +97,4 @@ ______________
 </p>
 <br/>
 
-<img src="https://github.com/Roczix/roczix/blob/master/github-metrics.svg" alt="github metrics">
+<img src="https://github.com/Roczix/roczix/blob/master/github-metrics.svg">
